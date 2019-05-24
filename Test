@@ -1,0 +1,3 @@
+$ git clone https://github.com/phonegap/phonegap-app-developer.git
+$ cd phonegap-app-developer/
+$ npm install
